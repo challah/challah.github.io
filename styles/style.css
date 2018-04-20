@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "Gotham Medium";
-  src: url("fonts/GOTHAM-MEDIUM.TTF");
+  src: url("assets/GOTHAM-MEDIUM.TTF");
 }
 
 @font-face {
   font-family: "Gotham Black";
-  src: url("fonts/GOTHAM-BLACK.TTF");
+  src: url("assets/GOTHAM-BLACK.TTF");
 }
 
 .pui {
