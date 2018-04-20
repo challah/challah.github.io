@@ -66,6 +66,10 @@ html, body{
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;}
 
+h1 {
+    font-family: 'Gotham Black', sans-serif;
+}
+
 /* Main */
 
 .main {
