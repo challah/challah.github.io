@@ -79,7 +79,10 @@ html, body{
   top: 30%;
   left: 30%;
   background-color: rgba (255, 0, 0, 0.4);
-  color: white;}
+  color: white;
+  padding-left: 25px;
+  padding-top: 25px;
+}
 
 
 /* Mobile */
@@ -109,7 +112,6 @@ html, body{
 
 /* Background */
 body {
-  margin: 25px;
   background: linear-gradient(225deg, #ff620a, #fffdc9);
   background-size: 400% 400%;
 
