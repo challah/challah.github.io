@@ -135,6 +135,11 @@ header i:hover {
   color: white;
 }
 
+.pronounce {
+  font-weight: normal;
+  font-family: serif;
+}
+
 /* TEACHING
 ------------------------- */
 .teaching {
